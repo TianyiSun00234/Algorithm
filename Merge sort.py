@@ -82,9 +82,6 @@ def quicksort(A,p,r):
     
 
 
-
-#DO NOT CHANGE ANYTHING BELOW THIS LINE
-
 #Takes in list of Emails A, and begins the recursive merge_sort
 #process by calling merge_sort on the entire list
 #Returns nothing
