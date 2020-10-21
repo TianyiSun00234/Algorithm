@@ -87,16 +87,10 @@ def database_delete(database,field,value):
             for y in database.color_table:
                 for j in y:
                     if x.color==j.color:
-                        y.remove(j)
-
-    
+                        y.remove(j)    
                
     return database
 
-
-
-
-## DO NOT EDIT BELOW THIS LINE
 
     
 #Hash function that works for all three attributes
