@@ -84,10 +84,6 @@ def optimize_wings(price_list,num_wings):
 
 
 
-
-
-#  DO NOT EDIT BELOW THIS LINE
-
 #Order class: represents a single valid order of chicken wings 
 #Has two instance variables: the number of wings in the order size, and the price.
 class Order:
