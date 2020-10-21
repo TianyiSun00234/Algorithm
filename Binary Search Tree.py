@@ -103,10 +103,7 @@ def find_nearest_unhaunted(floor_tree,floor_num):
         return m_node
 
    
-            
-        
 
-#DO NOT EDIT BELOW THIS LINE
 
 #FloorNode class: represents a single node within the BST.  Contains
 #   several instance variables.
