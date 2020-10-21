@@ -43,7 +43,6 @@ def SortStudents(A):
     V=RadixSort(A)
     return V
 
-#  DO NOT EDIT BELOW THIS LINE
 
 #Student class
 #Each task has three instance variables:
