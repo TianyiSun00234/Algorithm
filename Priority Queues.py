@@ -62,8 +62,6 @@ def increase_task_priority(task_heap,i,new_priority):
             i=(i-1)//2                            # (i-1)//2!!!
 
 
-#  DO NOT EDIT BELOW THIS LINE
-        
 
 #Task class
 #Each task has two instance variables:
