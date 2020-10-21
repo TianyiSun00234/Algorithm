@@ -64,12 +64,6 @@ def DFS_VISIT(u,start_node):
         
     
     
-    
-    #TODO: Finish the DFS and return the path from start_node to the goal
-   # return [start_node,start_node.adj[0]]#Placeholder return to avoid errors
-
-
-#  DO NOT EDIT BELOW THIS LINE
 
 #Square class
 #A single square on the grid, which is a single node in the graph.
